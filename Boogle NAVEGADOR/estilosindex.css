@@ -1,0 +1,31 @@
+html{
+    font-family: sans-serif;
+    font-weight: bold;
+    background: beige;
+}
+input{
+    width: 40%;
+}
+button{
+    margin-right: 40px;
+}
+nav{
+    width: 30%;
+    display: flex;
+    text-align: left;
+}
+#Up{
+    color: black;
+    margin: 10px;
+}
+#Up:hover{
+    color: blue;
+}
+#up2{
+    color:black;
+    margin: 1000px;
+}
+#up2:hover{
+    color: blue;
+}
+

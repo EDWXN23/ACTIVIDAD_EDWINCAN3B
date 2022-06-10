@@ -1,0 +1,17 @@
+html{
+    background-color: beige;
+    font-family: sans-serif;
+}
+.img{
+    width: 150px;
+    height: 200px;
+    margin: 15px 15px 15px 15px;
+}
+.posicion{
+    display: grid;
+    float:left;
+    
+}
+h1{
+    font-size: 30px;
+}
